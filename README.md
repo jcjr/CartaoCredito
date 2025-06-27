@@ -1,4 +1,4 @@
-# CartaoCredito
+# Cartao Crédito
 
 Este é um aplicativo Java simples para identificar a bandeira de um cartão de crédito a partir do número informado pelo usuário.
 
